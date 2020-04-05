@@ -1,0 +1,13 @@
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\obj\Debug\netstandard2.0\CustomRendEx.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\obj\Debug\netstandard2.0\CustomRendEx.AssemblyInfo.cs
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\bin\Debug\netstandard2.0\CustomRendEx.deps.json
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\bin\Debug\netstandard2.0\CustomRendEx.dll
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\bin\Debug\netstandard2.0\ref\CustomRendEx.dll
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\bin\Debug\netstandard2.0\CustomRendEx.pdb
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\obj\Debug\netstandard2.0\CustomRendEx.dll
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\obj\Debug\netstandard2.0\ref\CustomRendEx.dll
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\obj\Debug\netstandard2.0\CustomRendEx.pdb
+C:\Users\santosh\source\repos\CustomRendEx\CustomRendEx\CustomRendEx\obj\Debug\netstandard2.0\CustomRendEx.csprojAssemblyReference.cache

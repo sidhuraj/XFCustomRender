@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:news="clr-namespace:CustomRendEx"
+             x:Class="CustomRendEx.MainPage">
+    <Frame CornerRadius="10" 
+           HorizontalOptions="Center" 
+           VerticalOptions="Center"
+           HasShadow="True"
+           IsClippedToBounds="True"
+           Padding="0"
+           BackgroundColor="Green">
+        <StackLayout>
+
+
+            <news:RoundedEntry Placeholder="Enter your name"/>
+
+            <news:RoundedEntry Placeholder="Enter your address"/>
+
+            <news:RoundedEntry Placeholder="Enter your number"/>
+
+            <Entry x:Name="etData" Placeholder="Enter you data"/>
+
+        </StackLayout>
+    </Frame>
+
+</ContentPage>
